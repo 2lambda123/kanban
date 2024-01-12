@@ -28,7 +28,7 @@
     "angular-ui-router": "=0.3.0",
     "angularjs-datepicker": "=0.2.15",
     "font-awesome": "=4.6.3",
-    "markdown-it": "=5.0.2",
+    "markdown-it": "=12.3.2",
     "markdown-it-emoji": "=1.1.0",
     "ng-sortable": "=1.3.6",
     "sass-flex-mixin": "=1.0.3",
